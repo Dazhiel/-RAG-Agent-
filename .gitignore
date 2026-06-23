@@ -1,0 +1,9 @@
+.env
+runtime/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.venv/
+venv/
+models/
